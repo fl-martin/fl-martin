@@ -1,4 +1,4 @@
-![](profile-banner.png)
+## Hi 👋, I'm Federico.
 
 ### Frontend developer and passionate about interactive experiences
 
