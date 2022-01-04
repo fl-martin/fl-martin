@@ -1,4 +1,4 @@
-## Hi, I`m Federico. 👋
+![](profile-banner.png)
 
 ### Frontend developer and passionate about interactive experiences
 
