@@ -1,6 +1,6 @@
-# Hi, I`m Federico. 👋
+## Hi, I`m Federico. 👋
 
-## Frontend developer and passionate about interactive experiences
+### Frontend developer and passionate about interactive experiences
 
 - 🔭 I’m a student member of the Frontend team at [Rooftop Academy](https://github.com/RooftopAcademy).
 - 💻 At the moment I'm using technologies as [React](https://github.com/facebook/react), [Jest](https://github.com/facebook/jest), [Cypress](https://github.com/cypress-io/cypress), [Webpack](https://github.com/webpack/webpack) and [Git](https://git-scm.com/).
