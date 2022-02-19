@@ -1,11 +1,12 @@
 ## Hi 👋, I'm Federico.
 
-### Frontend developer and passionate about interactive experiences
+### WebXR / WebAR developer and passionate about interactive experiences
 
-- 🔭 I’m a student member of the Frontend team at [Rooftop Academy](https://github.com/RooftopAcademy).
-- 💻 At the moment I'm using technologies as [React](https://github.com/facebook/react), [Jest](https://github.com/facebook/jest), [Cypress](https://github.com/cypress-io/cypress), [Webpack](https://github.com/webpack/webpack) and [Git](https://git-scm.com/).
-- 🌱 I'm currently learning [Three.js](https://github.com/mrdoob/three.js/).
-- 👾 I like to generate interactive experiences using [Mediapipe](https://github.com/google/mediapipe), [Hydra](https://github.com/ojack/hydra) and more!
+- 💼 Currently working at [Captivatar](https://www.captivatar.com/) and taking projects for [Immersive Pro](https://immersivepro.es/).
+- 💻 At the moment I'm using technologies as [A-Frame](https://aframe.io/), [AR.js](https://ar-js-org.github.io/AR.js-Docs/), [React](https://github.com/facebook/react), [Webpack](https://github.com/webpack/webpack) and [Git](https://git-scm.com/).
+- 🌱 Always learning more about [Three.js](https://github.com/mrdoob/three.js/).
+- 🔭 I’ve been a student member of the Frontend team at [Rooftop Academy](https://github.com/RooftopAcademy).
+- 👾 I like to generate interactive experiences using [Mediapipe](https://github.com/google/mediapipe), [Hydra](https://github.com/ojack/hydra), [p5.js](https://p5js.org/) and more!
 
 <!--
 **fl-martin/fl-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
